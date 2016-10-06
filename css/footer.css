@@ -1,0 +1,157 @@
+
+.main_wrap {
+    margin: 0 auto;
+    display: block;
+    width: 935px;
+}
+
+.footer {
+    width: 100%;
+    display: block;
+    background-color: #2e3e4f;
+    color: #86939a;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+}
+
+.name-footer {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #f98561;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.info {
+    width: 935px;
+    display: inline-block;
+    text-align: left;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+
+.twitter-footer {
+    display: inline-block;
+    width: 218px;
+    vertical-align: top;
+    margin: 35px 19px 25px 0;
+}
+.twitter, .twitter_mod {
+    display: inline-block;
+    width: inherit;
+    border-bottom: 1px solid #556270;
+    padding: 7px 0 13px 0;
+}
+.twitter-f_mod {
+    border-bottom: none;
+}
+.twitter-href {
+    text-decoration: none;
+    color: #228bba;
+    text-transform: none;
+}
+
+
+.newsletter-footer {
+    display: inline-block;
+    width: 240px;
+    vertical-align: top;
+    margin: 35px 40px 25px 0;
+}
+.newsletter-text {
+    display: inline-block;
+    width: inherit;
+    border-bottom: 1px solid #556270;
+    padding: 10px 0 10px 0;
+}
+.newsletter-form {
+    display: inline-block;
+    width: inherit;
+    padding: 9px 0 11px 0;
+}
+.style-news {
+    text-transform: capitalize;
+    color: #2190c1;
+}
+.style-email {
+    border-radius: 5px;
+    padding: 4px 61px 3px 10px;
+    margin: 13px 0 10px 0;
+}
+.style-but {
+    text-transform: capitalize;
+    color: #ffffff;
+    background: #2190c1;
+    padding: 4px 9px 4px 17px;
+    border-radius: 4px;
+    margin: 7px 0 0 166px;
+}
+
+
+.projects-footer {
+    display: inline-block;
+    width: 235px;
+    text-transform: capitalize;
+    margin: 35px 9px 25px 0;
+}
+.projects-p {
+    margin-left: 61px;
+}
+.projects-img {
+    display: inline-block;
+    width: inherit;
+    padding: 10px 0 9px 0;
+    border-bottom: 1px solid #556270;
+}
+.projects-img2 {
+    display: inline-block;
+    width: inherit;
+    padding: 11px 0 10px 0;
+    border-bottom: 1px solid #556270;
+}
+.projects-img_mod {
+    display: inline-block;
+    width: inherit;
+    padding: 12px 0 10px 0;
+    border-bottom: none;
+}
+.image-projects {
+    float: left;
+    margin-right: 15px;
+}
+
+
+.contacts-footer {
+    display: inline-block;
+    width: 145px;
+    vertical-align: top;
+    margin: 35px 0 25px 0;
+}
+.contacts-img {
+    display: inline-block;
+    width: inherit;
+    padding-bottom: 16px;
+}
+.p-cnt {
+    margin-top: 13px;
+}
+.p-cnt2 {
+    margin-top: 1px;
+}
+.contact-href {
+    margin-top: 5px;
+    text-decoration: none;
+    color: #86939a;
+}
+.image-cnt1{
+    float: left;
+    padding: 8px 15px 0 0;
+}
+.image-cnt2 {
+    float: left;
+    padding: 0 6px 0 4px;
+}
+.image-cnt3 {
+    float: left;
+    padding: 10px 9px 0 0;
+}
